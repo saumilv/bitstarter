@@ -1,4 +1,4 @@
-{
+[
 "h1",
 ".navigation",
 ".logo",
@@ -14,4 +14,4 @@
 ".section1",
 ".section2",
 ".faq",
-".footer"}
+".footer"]
